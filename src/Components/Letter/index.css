@@ -1,0 +1,23 @@
+.button-section {
+    width: 250px;
+    margin: auto;
+}
+
+.letterBtn {
+    border: none;
+    font-size: 1rem;
+    width: 30px;
+    margin: 5px 2px 2px 2px;
+    letter-spacing: 1px;
+    outline: none;
+    background: #00bcd4;
+    color: #fff;
+    box-shadow: 0 6px #0097a7;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+
+.disabled-btn {
+    background-color: darkgray;
+    box-shadow: 0 6px gray;
+}

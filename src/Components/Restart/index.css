@@ -1,0 +1,10 @@
+.restart-btn {
+    color: #fff;
+    display: block;
+    background: #9c27b0;
+    box-shadow: 0 6px #7b1fa2;
+    margin: 30px auto;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
